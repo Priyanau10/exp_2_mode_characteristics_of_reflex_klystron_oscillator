@@ -69,11 +69,9 @@ As the bunches pass back through the resonator grids they interact with the gap 
 
 ## Observation
 
-*(Include your own table relevant to the experiment.)*
+<img width="1086" height="1448" alt="image" src="https://github.com/user-attachments/assets/6b85e9ed-faf5-4ef5-a87b-894dc7a55480" />
 
-## Graph
 
-*(Include your own graph relevant to the experiment.)*
 
 ## Precautions
 
@@ -90,4 +88,4 @@ As the bunches pass back through the resonator grids they interact with the gap 
 
 ## Conclusion
 
-*(Write your own.)*
+The mode characteristics of the Reflex Klystron were studied successfully. The variation of output power with repeller voltage was observed, and the different modes of oscillation were identified. The experiment verified the principle of velocity modulation and electron bunching used for microwave generation.
